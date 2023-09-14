@@ -1,2 +1,4 @@
 # SimulacionPorComputadora-CarlosMendoza
-Trabajos de Simulación Por Computadoras 
+Repositorio con todos las actividades realizadas en la clase de Simulacion por Computadora
+
+
