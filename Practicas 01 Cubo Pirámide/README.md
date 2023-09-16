@@ -1,1 +1,9 @@
-![Imagen de la piramide 1](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%202/img4.png)
+![Imagen de la piramide 1](https://github.com/Enethel110/SimulacionPorComputadora-CarlosMendoza/blob/main/Practicas%2001%20Cubo%20Pir%C3%A1mide/img1.png)
+
+![Imagen de la piramide 1](https://github.com/Enethel110/SimulacionPorComputadora-CarlosMendoza/blob/main/Practicas%2001%20Cubo%20Pir%C3%A1mide/img2.png)
+
+![Imagen de la piramide 1](https://github.com/Enethel110/SimulacionPorComputadora-CarlosMendoza/blob/main/Practicas%2001%20Cubo%20Pir%C3%A1mide/img3.png)
+
+![Imagen de la piramide 1](https://github.com/Enethel110/SimulacionPorComputadora-CarlosMendoza/blob/main/Practicas%2001%20Cubo%20Pir%C3%A1mide/img4.png)
+
+![Imagen de la piramide 1](https://github.com/Enethel110/SimulacionPorComputadora-CarlosMendoza/blob/main/Practicas%2001%20Cubo%20Pir%C3%A1mide/img5.png)
