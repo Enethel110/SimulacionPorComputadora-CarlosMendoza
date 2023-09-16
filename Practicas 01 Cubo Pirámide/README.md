@@ -1,0 +1,1 @@
+![Imagen de la piramide 1](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%202/img4.png)
