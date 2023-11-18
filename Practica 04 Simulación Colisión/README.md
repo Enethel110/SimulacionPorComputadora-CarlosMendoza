@@ -1,4 +1,4 @@
-![Video de Simulación Colisión 1](https://github.com/Enethel110/SimulacionPorComputadora-CarlosMendoza/blob/main/Practica%2004%20Simulaci%C3%B3n%20Colisi%C3%B3n/video.mp4)
+[![Video de Simulación Colisión 1](https://github.com/Enethel110/SimulacionPorComputadora-CarlosMendoza/blob/main/Practica%2004%20Simulaci%C3%B3n%20Colisi%C3%B3n/img4.png)](https://youtu.be/JeBe7AXtx7c)
 
 ![Imagen de Simulación Colisión 1](https://github.com/Enethel110/SimulacionPorComputadora-CarlosMendoza/blob/main/Practica%2004%20Simulaci%C3%B3n%20Colisi%C3%B3n/img1.png)
 
